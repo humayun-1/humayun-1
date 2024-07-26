@@ -2,11 +2,6 @@
 
 <h3 align="center">An enthousiast Frontend Developer</h3>
 
-<div align="center">
- 
- [![Linkedin Badge](https://img.shields.io/badge/-iharijaona-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iharijaona/)](https://www.linkedin.com/in/iharijaona/) [![Gmail Badge](https://img.shields.io/badge/-hravelondrina@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hravelondrina@gmail.com)](mailto:hravelondrina@gmail.com)
- 
- </div>
  
  <br/>
  
