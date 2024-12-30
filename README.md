@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I am Humayun Jawad </a> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px"></h1>
 
-<h3 align="center">An enthousiast Frontend Developer</h3>
+<h3 align="center">An enthousiast Software Engineer</h3>
 
  
  <br/>
