@@ -7,7 +7,7 @@
  
  <div align="center">
 
-🌱 I’m currently learning **Nodejs and MongoDB**
+🌱 I’m currently learning **AWS and Terraform**
 
 💬 Ask me about **React, Tailwind, Sockets, Animations**
 
@@ -23,8 +23,8 @@
 
 | Stack | Tools |
 |---|---|
-|**Resonsive Designs**| SCSS / TailwindCSS / MUI,  Core CSS, @keyframes|
-|**Javascript / Typescript**| React.js / Redux / Apollo,  Express.js, Nest.js|
+|**Resonsive Designs**| SCSS / TailwindCSS / MUI,  Core CSS, @keyframes, Three.js|
+|**Javascript / Typescript**| React.js / Redux / Apollo, Vanilla js ,Express.js, Nest.js, Zustand, Mapbox|
 |**API & Architectures**|REST, GraphQL|
 |**Backend**|Prisma, Supabase, Firebase|
 
