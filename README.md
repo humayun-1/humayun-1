@@ -9,9 +9,9 @@
 
 🌱 I’m currently learning **AWS and Terraform**
 
-💬 Ask me about **React, Tailwind, Sockets, Animations**
+💬 Ask me about **React, Tailwind, Sockets, Animations, Browser behavior**
 
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> What I do: **Frontend Development**, **Responsive Designs** and **Vanilla JS**
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> What I do: **Web application development**, **Responsive Designs**, **Browser animations** and **Vanilla JS**
   
 </div>
  
