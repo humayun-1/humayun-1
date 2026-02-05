@@ -38,7 +38,7 @@ Senior Full Stack Engineer (Frontend-Heavy) | React, Next.js, TypeScript, Cloud,
 | **Cloud & DevOps** | AWS (EC2, Auto Scaling, Amplify), Terraform (Infra as Code), Vercel, GitHub Actions |
 | **Data (Learning)** | ETL pipelines, analytics workflows, data modeling fundamentals |
 | **Web3** | Wagmi, WalletConnect, multi-chain wallet integrations, crypto payment APIs |
-| **Mapping & Viz** | Mapbox GL JS, Chart.js, D3.js (basic) |
+| **Mapping & Viz** | Mapbox GL JS, D3.js |
 | **Tooling** | Git, CI/CD pipelines, monorepos, linting, performance audits |
 
 </div>
