@@ -26,6 +26,8 @@ Senior Full Stack Engineer (Frontend-Heavy) | React, Next.js, TypeScript, Cloud,
 
 <h3 align="center">🛠 Core Tech Stack</h3>
 
+<div align="center">
+
 | Domain | Tools |
 |--------|-------|
 | **Frontend Architecture** | React 18+, Next.js 14+, Vite, TypeScript, TailwindCSS, ShadCN, MUI |
@@ -33,11 +35,14 @@ Senior Full Stack Engineer (Frontend-Heavy) | React, Next.js, TypeScript, Cloud,
 | **3D / Visuals** | Three.js, React Three Fiber, WebGL |
 | **Backend** | Node.js, Express, Prisma, Supabase, Firebase |
 | **APIs** | REST, GraphQL |
-| **Cloud & DevOps** | AWS (EC2, Auto Scaling, Amplify), Terraform (IaC), Vercel, GitHub Actions |
-| **Data (Learning)** | ETL concepts, analytics pipelines, data modeling |
-| **Web3** | Wagmi, Reown AppKit, NowPayments, WalletConnect |
+| **Cloud & DevOps** | AWS (EC2, Auto Scaling, Amplify), Terraform (Infra as Code), Vercel, GitHub Actions |
+| **Data (Learning)** | ETL pipelines, analytics workflows, data modeling fundamentals |
+| **Web3** | Wagmi, WalletConnect, multi-chain wallet integrations, crypto payment APIs |
 | **Mapping & Viz** | Mapbox GL JS, Chart.js, D3.js (basic) |
-| **Tooling** | Git, CI/CD, Monorepos, Linting, Performance Audits |
+| **Tooling** | Git, CI/CD pipelines, monorepos, linting, performance audits |
+
+</div>
+
 
 ---
 
@@ -57,38 +62,6 @@ Senior Full Stack Engineer (Frontend-Heavy) | React, Next.js, TypeScript, Cloud,
 
 ---
 
-<h3 align="center">📌 Selected Work</h3>
-
-**MoonshotMagax (Web3 Payments Platform)**  
-React, TypeScript, Wagmi, Reown AppKit, NowPayments  
-• Multi-chain wallet integration (MetaMask, TrustWallet)  
-• Real-time tx status, chain switching, fallback networks  
-• Custom payment dialogs + UX flows  
-• Production crypto payment infra
-
-**Low-Code / No-Code Builder (Enxsys)**  
-React, Component Systems, AWS  
-• Visual builder platform  
-• Reusable UI systems  
-• Scalable frontend architecture  
-• Collaboration with product + design teams
-
-**SaaS & Dashboards**  
-• Admin panels  
-• Role-based dashboards  
-• Performance optimization  
-• CI/CD automation  
-
----
-
-<h3 align="center">📊 GitHub Stats</h3>
-
-<div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=humayun-1&layout=compact&theme=radical" height="150" />
-</div>
-
----
-
 <h3 align="center">🧠 Current Focus</h3>
 
 <div align="center">
@@ -103,30 +76,41 @@ React, Component Systems, AWS
 
 ---
 
-<h3 align="center">🧰 Tools & Platforms</h3>
+<h3 align="center">📌 Selected Work</h3>
 
-<p align="center">
-  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/terraform.svg" width="40"/>
-  <img src="https://reactnative.dev/img/header_logo.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" width="40"/>
-</p>
+<div align="center">
 
----
+<strong>Large-scale payment & wallet integration system</strong><br/>
+• Multi-chain wallet connections and crypto payments<br/>
+• Real-time transaction status, chain switching, fallback network handling<br/>
+• Custom payment dialogs and UX flows for production users<br/>
+• Secure API integrations and performance-tuned frontend architecture  
 
-<h3 align="center">🌍 OS / Runtime</h3>
+<br/>
 
-<p align="center">
+<strong>Low-code / visual builder platform</strong><br/>
+• Component-driven UI architecture for drag-and-drop experiences<br/>
+• Complex state management and dynamic rendering pipelines<br/>
+• Reusable UI systems and design system enforcement<br/>
+• Performance optimization for large component trees  
 
-![macOS](https://img.shields.io/badge/mac%20os-000000?logo=macos&logoColor=F0F0F0)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)
-![Debian](https://img.shields.io/badge/Debian-D70A53?logo=debian&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-2496ED?logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff)
+<br/>
 
-</p>
+<strong>SaaS dashboards and admin platforms</strong><br/>
+• Role-based access control and permission layers<br/>
+• Real-time data updates and complex filtering systems<br/>
+• Analytics views and operational dashboards<br/>
+• CI/CD-driven production deployments  
+
+<br/>
+
+<strong>High-performance frontend systems</strong><br/>
+• Browser-level performance tuning and rendering optimizations<br/>
+• Animation-heavy interfaces using modern GPU-accelerated techniques<br/>
+• Cross-browser compatibility testing and fixes<br/>
+• Frontend architecture for scalable long-term maintainability  
+
+</div>
 
 ---
 
