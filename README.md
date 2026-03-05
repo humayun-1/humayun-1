@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-Senior Full Stack Engineer (Frontend-Heavy) | React, Next.js, TypeScript, Cloud, Web3, Data & Infra
+Senior Full Stack Engineer | React, Next.js, TypeScript, Cloud, Web3, Data & Infra
 </h3>
 
 <br/>
